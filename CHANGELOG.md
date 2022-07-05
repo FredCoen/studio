@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@zapper-fi/studio?activeTab=versions
 
+## [0.101.1](https://github.com/Zapper-fi/studio/compare/v0.101.0...v0.101.1) (2022-07-05)
+
+
+### Bug Fixes
+
+* disabled pool-together-v3's TVL ([#824](https://github.com/Zapper-fi/studio/issues/824)) ([9e1ac42](https://github.com/Zapper-fi/studio/commit/9e1ac42f44f95456cb4d7c109ffcbbf688555643))
+
 ## [0.101.0](https://github.com/Zapper-fi/studio/compare/v0.100.3...v0.101.0) (2022-07-04)
 
 
